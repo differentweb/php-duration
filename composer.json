@@ -28,6 +28,5 @@
     },
     "scripts": {
         "test": "phpunit -c phpunit.xml"
-    },
-    "minimum-stability": "stable"
+    }
 }
