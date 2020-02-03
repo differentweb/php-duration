@@ -1,6 +1,6 @@
 <?php
 
-use Khill\Duration\Duration;
+use differentweb\Duration\Duration;
 
 class DurationTest extends PHPUnit_Framework_TestCase
 {
