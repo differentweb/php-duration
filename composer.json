@@ -1,5 +1,5 @@
 {
-    "name": "khill/php-duration",
+    "name": "differentweb/php-duration",
     "description": "Converts between colon formatted time, human-readable time and seconds",
     "keywords": [
         "duration",
@@ -8,17 +8,6 @@
         "convert"
     ],
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Kevin Hill",
-            "email": "kevinkhill@gmail.com",
-            "role": "Creator"
-        },
-        {
-            "name": "Duration Community",
-            "homepage": "https://github.com/kevinkhill/php-duration/contributors"
-        }
-    ],
     "require": {
         "php": ">=5.4"
     },
@@ -34,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Khill\\Duration\\": "src/"
+            "differentweb\\Duration\\": "src/"
         }
     },
     "scripts": {
