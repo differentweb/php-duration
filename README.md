@@ -1,3 +1,7 @@
+Changes:
+
+Quantities greater than 99X are managed
+
 # PHP-Duration
 #### Convert durations between colon formatted time, human-readable time and seconds
 [![Total Downloads](https://img.shields.io/packagist/dt/khill/php-duration.svg?style=plastic)](https://packagist.org/packages/khill/php-duration)
